@@ -1,4 +1,4 @@
-const numbers = [1, 5, 61, 61, 7, 5, 87, 7, 5, 81, 61];
+const numbers = [1, 5, 5, 11, 13, 61, 61, 7, 5, 87, 7, 5, 81, 61];
 
 function noDuplicate(number) {
   const unique = [];
